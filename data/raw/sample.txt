@@ -1,0 +1,11 @@
+The Earth is approximately 4.54 billion years old.
+
+<p>Researchers found that regular exercise improves cognitive performance.</p>
+
+Visit https://example.com for more information.
+
+THE STUDY SHOWED THAT PARTICIPANTS PERFORMED BETTER.
+
+This     document     contains       multiple spaces.
+
+This is another line of the document.
