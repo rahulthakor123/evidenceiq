@@ -1,3 +1,6 @@
 pydantic
 pytest
 pymupdf
+spacy
+scikit-learn
+sentence-transformers
